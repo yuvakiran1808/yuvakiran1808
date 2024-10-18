@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Know about my coding journey here.
 <!--
 **yuvakiran1808/yuvakiran1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
