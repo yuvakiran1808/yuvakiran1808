@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Yuva Sai Kiran
 
-A passionate Software Engineer, GATE Aspirant, and Tech Content Creator from India 🇮🇳  
+A passionate Software Engineer, GATE Aspirant, and Tech Content Creator from India 
 I love solving real-world problems with code and building products that impact lives.
 
 ---
@@ -21,7 +21,7 @@ I love solving real-world problems with code and building products that impact l
 
 ### 📱 Mobile Development
 - Flutter (Dart)
-- React Native (with React Navigation)
+- React Native
 
 ### ☁️ DevOps & Cloud
 - Docker | GitHub Actions
@@ -57,7 +57,7 @@ I create short-form tech videos (Reels & Shorts) on:
 
 ## 📫 Let's Connect!
 
-- 🔗 [Portfolio Website](kiranexplains.netlify.app)
+- 🔗 [Portfolio Website](https://kiranexplains.netlify.app/)
 - 📩 Email: pyuvasaikiran@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yuva-sai-kiran-171218218/)
 - 🧑‍💻 [LeetCode](https://leetcode.com/u/pyuvasaikiran/)
