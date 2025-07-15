@@ -1,6 +1,3 @@
-Know about my coding journey here.👇
-
-
 
 # 👋 Hi, I'm Yuva Sai Kiran
 
