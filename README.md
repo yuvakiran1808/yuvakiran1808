@@ -4,7 +4,7 @@ Know about my coding journey here.👇
 
 # 👋 Hi, I'm Yuva Sai Kiran
 
-A passionate Full Stack Developer, GATE Aspirant, and Tech Content Creator from India 🇮🇳  
+A passionate Software Engineer, GATE Aspirant, and Tech Content Creator from India 🇮🇳  
 I love solving real-world problems with code and building products that impact lives.
 
 ---
@@ -41,8 +41,8 @@ I love solving real-world problems with code and building products that impact l
 
 ## 📊 GitHub Stats
 
-![Yuva Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuvaSaiKiran&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvaSaiKiran&layout=compact&theme=radical)
+![Yuva Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvakiran1808&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvakiran1808&layout=compact&theme=radical)
 
 ---
 
@@ -54,20 +54,20 @@ I create short-form tech videos (Reels & Shorts) on:
 - Tech career tips
 - Project building tutorials
 
-📍[Instagram](https://instagram.com/YOUR_HANDLE) | 🎬 [YouTube](https://youtube.com/@YOUR_HANDLE)
+📍[Instagram](https://instagram.com/kiran_explains) | 🎬 [YouTube](https://youtube.com/@yuvasaikiran2259)
 
 ---
 
 ## 📫 Let's Connect!
 
-- 🔗 [Portfolio Website](https://your-portfolio-link.com)
-- 📩 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/YuvaSaiKiran)
-- 🧑‍💻 [LeetCode](https://leetcode.com/YOUR_HANDLE/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YOUR_HANDLE)
+- 🔗 [Portfolio Website](kiranexplains.netlify.app)
+- 📩 Email: pyuvasaikiran@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yuva-sai-kiran-171218218/)
+- 🧑‍💻 [LeetCode](https://leetcode.com/u/pyuvasaikiran/)
 
 ---
 
-> “Never step back. Always move forward.” — My Motto 🚀
+> “You don't need motivation, you need discipline” 🚀
 
 <!--
 **yuvakiran1808/yuvakiran1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
